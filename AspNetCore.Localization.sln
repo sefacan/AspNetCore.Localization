@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore.Localization", "src\AspNetCore.Localization\AspNetCore.Localization.csproj", "{EAA5B59D-59D8-4892-8698-C5ECB510BD5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37416939-9FF4-407F-B0C4-6E764DBA08FA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		global.json = global.json
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA5B59D-59D8-4892-8698-C5ECB510BD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA5B59D-59D8-4892-8698-C5ECB510BD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA5B59D-59D8-4892-8698-C5ECB510BD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA5B59D-59D8-4892-8698-C5ECB510BD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5B122A-FC68-41C7-B716-778BD9DC2BF7}
+	EndGlobalSection
+EndGlobal
